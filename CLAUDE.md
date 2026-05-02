@@ -96,4 +96,17 @@ Apex (baleyawelding.com):
 WWW:
 - CNAME `www` → CEMG97.github.io
 
-Email records (intact, untouched): MX → mx1/mx2.hostinger.com, SPF, DKIM (3 records), DMARC, autoconfig, autodiscover.
+Email records (kept): MX → mx1/mx2.hostinger.com, DKIM (3 records), autoconfig, autodiscover.
+SPF and DMARC TXT records were lost when the old Hostinger website was deleted (acceptable — owner does not use email @baleyawelding.com).
+
+## ⚠️ Known issue: Hostinger auto-restores DNS
+
+**This already happened once.** Hostinger has an automatic system that overwrites DNS records back to its own CDN (`baleyawelding.com.cdn.hstgr.net`) when it detects an active website in the panel that doesn't match the DNS.
+
+**Permanent fix applied**: the old Zyro/Builder website inside the Hostinger panel was deleted. As long as no website is active in Hostinger for this domain, the DNS should stay stable.
+
+**If the sitio breaks again** and shows the old Hostinger page:
+1. First diagnose with `nslookup baleyawelding.com 8.8.8.8` — if it shows `212.1.x.x` / `195.35.x.x` / `*.hstgr.net` instead of `185.199.108-111.153`, the DNS got reset.
+2. Check the Hostinger panel for any website that might have been re-created or auto-created on this domain. Delete it.
+3. Re-apply the DNS configuration (4 A records to GitHub Pages + CNAME `www` → `CEMG97.github.io`).
+4. Verify with nslookup again after 5-10 min.
