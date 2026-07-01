@@ -19,7 +19,7 @@ Carlos Miranda — owner of Baleya Welding (custom welding & metal fabrication).
 - CEO of company (welder): Esdreny Baleya
 - Business email shown on site: baleyawelding@yahoo.com
 - Phone: (786) 327-0445 (also WhatsApp)
-- Address: 1743 Huntington Ln #109, Rockledge, FL 32955
+- Address: 175 N Cleary Rd Unit -A5, West Palm Beach, FL 33413
 
 ## Repo structure
 
@@ -57,7 +57,7 @@ baleyawelding/
 ## Decisions and conventions (do NOT revisit unless user asks)
 
 - **No fake testimonials.** Customer wanted real ones; he doesn't have any → section removed in favor of Featured Projects with real commercial work (Camping World Stadium, MIDTOWN, WaterSide, Venue Townhomes).
-- **Don't lean on "based in Rockledge"** in marketing copy. Customer prefers "Serving All of Florida" framing. Rockledge address only appears in physical contact info and schema.org JSON-LD (required for local SEO).
+- **Don't lean on "based in West Palm Beach"** in marketing copy. Customer prefers "Serving All of Florida" framing. The West Palm Beach address only appears in physical contact info and schema.org JSON-LD (required for local SEO).
 - **3D Design & Modeling is a key differentiator** — featured prominently on services.html with an "INCLUDED" badge.
 - **Logo**: white version in header/footer; on hover it tints orange.
 - **Hero**: simplified to one short headline + one-line subtitle. No long paragraphs, no trust badges.

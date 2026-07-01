@@ -37,9 +37,9 @@
 - **Email formulario:** cemgproducts@gmail.com
 - **Email negocio:** baleyawelding@yahoo.com
 - **Teléfono / WhatsApp:** (786) 327-0445
-- **Dirección física:** 1743 Huntington Ln #109, Rockledge, FL 32955
+- **Dirección física:** 175 N Cleary Rd Unit -A5, West Palm Beach, FL 33413
 - **Horario:** Mon–Fri 8am–5pm
-- **Área servida:** Toda Florida (no enfatizar Rockledge en marketing)
+- **Área servida:** Toda Florida (no enfatizar la ciudad de origen en marketing)
 
 ### Redes sociales activas en el sitio
 
@@ -133,7 +133,7 @@ baleyawelding/
 - Se eliminó el texto "Baleya Welding" al lado del logo (redundante).
 - Cambié la foto principal (hero) varias veces hasta llegar a **ST5.jpg** de Venue Townhomes (escalera moderna con railings horizontales negros).
 - Simplifiqué el texto del hero: `"Mastering Metalwork Across Florida"` + una línea de subtítulo.
-- Reescribí la página About con el texto que me diste, sin mencionar "based in Rockledge" (foco: toda Florida).
+- Reescribí la página About con el texto que me diste, sin mencionar la ciudad de origen (foco: toda Florida).
 - Añadí "3D Design & Modeling — INCLUDED" como servicio destacado con badge naranja.
 - Foto del About: pérgolas del proyecto MIDTOWN.
 
@@ -286,7 +286,7 @@ Total: **12 records**
 
 1. **No hay testimonios en el sitio.** Carlos no tiene testimonios reales y no queremos inventar. En su lugar: sección "Featured Projects" con obras reales.
 
-2. **No enfatizar "based in Rockledge"** en marketing. Preferencia: "Serving All of Florida". La dirección física de Rockledge solo aparece en la sección de contacto (necesaria para SEO local en Google).
+2. **No enfatizar la ciudad de origen** en marketing. Preferencia: "Serving All of Florida". La dirección física de West Palm Beach solo aparece en la sección de contacto (necesaria para SEO local en Google).
 
 3. **3D Modeling es diferenciador clave.** Destacado con badge naranja "INCLUDED" en services.html.
 
