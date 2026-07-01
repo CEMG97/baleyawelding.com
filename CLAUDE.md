@@ -19,7 +19,7 @@ Carlos Miranda — owner of Baleya Welding (custom welding & metal fabrication).
 - CEO of company (welder): Esdreny Baleya
 - Business email shown on site: baleyawelding@yahoo.com
 - Phone: (786) 327-0445 (also WhatsApp)
-- Address: 175 N Cleary Rd Unit -A5, West Palm Beach, FL 33413
+- Address: 175 N Cleary Rd Unit-A5, West Palm Beach, FL 33413
 
 ## Repo structure
 
